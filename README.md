@@ -35,7 +35,7 @@ Welcome to the Bank System project! This system is a simple banking application 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bank-system.git
+   git clone https://github.com/YaserZarifi/Bank-System
    ```
 
 2. Set up your database:
