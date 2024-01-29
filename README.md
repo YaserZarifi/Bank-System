@@ -17,7 +17,7 @@ Welcome to the Bank System project! This system is a simple banking application 
 
 - User authentication and authorization
 - Create bank accounts
-- Transfer funds between accounts (Card to Card, Paya)
+- Transfer funds between accounts (Card to Card, Paya, and Satna transfers with daily transfer limits.)
 - View transaction history
 - Check individual transaction details
 - Delete bank cards
